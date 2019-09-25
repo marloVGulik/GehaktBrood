@@ -1,4 +1,33 @@
 .main {
 	font-family: 'Roboto', sans-serif;
-	font-size: 
+	font-size: 20px;
+	line-height: 26px;
+	width: 950px;
+	margin: 0 auto;
+}
+
+.firstParagraph {
+	font-size: 24px;
+	line-height: 32px;
+}
+
+
+.title {
+	margin: 0;
+	font-size: 36px;
+	line-height: 36px;
+}
+
+.subtitle {
+	font-size: 32px;
+	line-height: 32px;
+}
+
+li {
+	margin: 10px;
+}
+
+.tipLetters {
+	font-weight: bold;
+	margin: 25px;
 }
