@@ -7,27 +7,47 @@
 }
 
 .firstParagraph {
+	margin: 0;
 	font-size: 24px;
 	line-height: 32px;
+	padding: 20px 0;
 }
 
+img {
+	margin-bottom: 40px;
+}
 
 .title {
+	padding-bottom: 20px;
 	margin: 0;
 	font-size: 36px;
 	line-height: 36px;
 }
 
 .subtitle {
+	margin: 0;
+	padding: 20px 0;
 	font-size: 32px;
 	line-height: 32px;
 }
 
 li {
-	margin: 10px;
+	margin: 5px;
+}
+
+.tip {
+	padding: 20px 0;
+	background-color: #DEF6ED;
+	border-radius: 4px;
+	padding: 25px;
 }
 
 .tipLetters {
+	padding: 20px 0;
 	font-weight: bold;
-	margin: 25px;
+}
+
+.ordered li {
+	margin: 0 auto;
+	padding-bottom: 10px;
 }
